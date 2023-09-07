@@ -1,0 +1,18 @@
+html {
+    height: 100%;
+}
+body {
+    font-family: Arial;
+   
+    background: linear-gradient(to left, rgb(116, 27, 27), orange);
+}
+h1 {
+    color: white;
+    background-color: brown;
+}
+h2 {
+    color: rgb(2, 92, 2);
+}
+p.aldir{
+    text-align: center;
+}
